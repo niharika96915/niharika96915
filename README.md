@@ -53,6 +53,7 @@ Currently, I am focused on:
 ## 🤝 Let's Connect
 
 📧 Email: niharikalakhera86@gmail.com 
-💼 LinkedIn: your-linkedin-profile
+
+💼 LinkedIn: https://www.linkedin.com/in/niharika-lakhera-810413336?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 
 ⭐ *Always learning. Always building.*
